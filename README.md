@@ -54,8 +54,7 @@ After creating the meaningCloud account go to your account and get your API key.
 Create a new file and name it like this (.env)
 This file should have This information to run the project correctly.
 
-API_URL='https://api.meaningcloud.com/sentiment-2.1'
-API_KEY= 'HERE PUT YOUR API KEY'
+`API_KEY= 'HERE PUT YOUR API KEY'`
 
 ## Run The project
 

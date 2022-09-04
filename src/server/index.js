@@ -34,7 +34,7 @@ const server = app.listen(port, listening);
 
 // API info
 const API = {
-  URL: process.env.API_URL,
+  URL: "https://api.meaningcloud.com/sentiment-2.1",
   KEY: process.env.API_KEY,
   LANG: "en",
 };
